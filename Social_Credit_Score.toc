@@ -1,0 +1,8 @@
+## Interface: 90001
+## Title: Social Credit Score
+## Author: logictests
+## eMail: me@noyou.me
+## DefaultState: Enabled
+## SavedVariables:
+
+main.lua
